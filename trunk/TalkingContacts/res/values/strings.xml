@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Talking Contacts</string>
+    <string name="contact_description">
+Press MENU for edit mode.\n
+Press and hold MENU to add.\n
+Scroll contacts with trackball.\n
+Press CALL twice to confirm.
+    </string>
+	<string name="edit_contact_description">
+Press CALL twice to save.\n
+Press and hold BACK to remove contact.\n
+Press MENU to return to contacts.
+	</string>
+</resources>
